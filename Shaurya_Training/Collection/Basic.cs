@@ -4,6 +4,12 @@ using System.Text;
 using System.Threading;
 using System.Collections;
 
+
+/*generic:-       list        dictonary,      sortedList    stack     quene
+ * non generic:-  ArrayList   hashtable       sortedList    stack     quene
+ */
+
+
 namespace Shaurya_Training.Collection
 {
     //collection
