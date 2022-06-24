@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>Shaurya_Training.Collection.Class1</StartupObject>
+    <StartupObject>Shaurya_Training.Collection.Linkedlist1</StartupObject>
   </PropertyGroup>
 
 </Project>

@@ -17,7 +17,7 @@ namespace Shaurya_Training.Collection
 
 
 
-                SortedList<StringBuilder, int> s = new SortedList<StringBuilder, int>(new mysorted { });
+                SortedList<StringBuilder, int> s = new SortedList<StringBuilder, int>(new mysorted ());
 
                 s.Add(new StringBuilder("siya"), 90);
                 s.Add(new StringBuilder("riya"), 90);

@@ -17,7 +17,7 @@ namespace Shaurya_Training.Collection
         }
         public int CompareTo(student1 o)
         {
-            return (this.name.CompareTo (o.name));
+            return (this.name.CompareTo(o.name));
         }
         public override string ToString()
         {
@@ -42,6 +42,10 @@ namespace Shaurya_Training.Collection
             {
                 Console.WriteLine(kv.Key + " =" + kv.Value);
             }
+            //here also use icomparble or icomparer
+            //here no store in key value pair.single data is store here.
+            //
+            
           
         }
     }
