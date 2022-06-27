@@ -1,0 +1,29 @@
+﻿p
+{
+    
+    background-color:aqua;
+    color:red;
+}
+h1
+{
+    word-spacing:20px;
+    font-stretch:wider;
+    backface-visibility:visible;
+    background-color:yellow;
+}
+div
+{
+    scroll-margin:unset;
+    text-decoration:blink;
+    text-align:center;
+ height:50px;
+ color:blueviolet;
+ background-color:#b6ff00;
+ background-image:src( nature.jpeg);
+  
+}
+#para1
+{
+    color:brown;
+    background-color:white;
+}

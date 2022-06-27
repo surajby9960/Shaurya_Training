@@ -153,7 +153,7 @@ namespace Shaurya_Training.Collection
                 this.Name = name;
                 this.Per = per;
             }
-            public override string ToString()   //to show objexct in console we ovweerde ToString() method.
+            public override string ToString()   //to show objexct in console we override ToString() method.
             {
                 return $"name{name} id{sid}percemtage{per}";
             }

@@ -13,7 +13,7 @@ namespace Shaurya_Training.Collection
             HashSet<string> ht = new HashSet<string>();
             ht.Add("om");
             ht.Add("suraj");
-            ht.Add("suraj");// here not give error but.they not save this suraj nly one suraj save.
+            ht.Add("suraj");// here not give error but.they not save this suraj only one suraj save.
 
             foreach(string st in ht)
             {
