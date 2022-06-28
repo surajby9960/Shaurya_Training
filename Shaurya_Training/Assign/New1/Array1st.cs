@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace New1
+namespace Shaurya_Training.Assign.New1
 {
     class Array1st
     {

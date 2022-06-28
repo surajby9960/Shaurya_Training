@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace OOPS.funStr
+namespace Shaurya_Training.Assign.funStr
 {
     class Class1
     {

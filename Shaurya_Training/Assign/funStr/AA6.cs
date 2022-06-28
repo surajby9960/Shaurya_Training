@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Practise.Logical
+namespace Shaurya_Training.Assign.funStr
 {
     class AA6
     {

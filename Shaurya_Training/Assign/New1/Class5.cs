@@ -5,7 +5,7 @@ using System.Threading;
 
 using System.Collections;
 
-namespace Practise.New1
+namespace Shaurya_Training.Assign.New1
 {
     class Student:IComparable
     {

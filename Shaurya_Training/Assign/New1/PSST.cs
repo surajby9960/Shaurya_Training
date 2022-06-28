@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Practise.New1
+namespace Shaurya_Training.Assign.New1
 {
     class PSST
     {
