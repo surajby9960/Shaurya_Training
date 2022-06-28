@@ -1,21 +1,21 @@
-﻿using System;
+﻿/*using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Shaurya_Training
+namespace Shaurya_Training.OOPs
 {
     public delegate void myde(string nm, string addr);
     public delegate int mydel(int n);
     class Demodel
     {
-        public static void info(string nm, string addre)
+       public static void info(string nm,string addre)
         {
-            Console.WriteLine("name=" + nm + " address=" + addre);
+            Console.WriteLine("name="+nm+" address="+addre);
         }
-        public static int facto(int n)
+       public static int facto(int n)
         {
             int fact = 1;
-            for (int i = 1; i <= n; i++)
+            for(int i=1;i<=n;i++)
             {
                 fact = fact * i;
             }
@@ -33,5 +33,4 @@ namespace Shaurya_Training
             md("suraj", "pune");
         }
     }
-}
-
+}*/

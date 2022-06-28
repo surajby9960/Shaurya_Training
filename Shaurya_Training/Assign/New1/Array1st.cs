@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Practise.New1
+namespace New1
 {
     class Array1st
     {

@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>Shaurya_Training.Assign.Collection_assign.Colle1</StartupObject>
+    <StartupObject>Shaurya_Training.Assign.New1.Array1st</StartupObject>
   </PropertyGroup>
 
 </Project>
