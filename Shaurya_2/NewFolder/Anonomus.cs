@@ -7,10 +7,7 @@ namespace Shaurya_2.NewFolder
     //here no need to write function seprate you can directly assign.
     class Mathh1
     {
-        public static void add(int a, int b)
-        {
-            Console.WriteLine("sum=" + (a + b));
-        }
+        
 
         public static void sub(int a, int b)
         {
@@ -26,10 +23,10 @@ namespace Shaurya_2.NewFolder
     public delegate int del2(int a, int b);
     class Anonomus
     {
-        static int add1(int a,int b)
+       /* static int add1(int a,int b)
         {
             return a + b;
-        }
+        }*/
         static void Main(string[] args)
         {
             del1 d1 = delegate (int a, int b)//here you mak
