@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>Shaurya_2.NewFolder.MM</StartupObject>
+    <StartupObject>Shaurya_2.NewFolder.Thre1</StartupObject>
   </PropertyGroup>
 
 </Project>
